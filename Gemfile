@@ -40,4 +40,6 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 gem 'rails_12factor', group: :production
 
+gem "letter_opener", group: :development
+
 ruby '2.1.0'
